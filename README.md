@@ -2,4 +2,4 @@
 
 :computer: Ingeniero de Computacion y Sistemas
 
-:interests: Mathematics
+:books: Mathematics, Programming
